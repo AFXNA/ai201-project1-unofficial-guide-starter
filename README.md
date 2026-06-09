@@ -57,7 +57,7 @@ overlap ensures that both chunks contain enough shared context that either one c
 The 500-character window fits the typical paragraph length as my articles do not include anything special, and the 50-character overlap provides a safety margin for
 information that straddles boundaries. Before chunking, I have copied and pasted the text elements from the articles to answer potential questions in a text file.
 **Final chunk count:**
-231
+282
 ---
 
 ## Embedding Model
@@ -97,6 +97,33 @@ Answer the user's question using ONLY the information provided in the CONTEXT se
 
 **How source attribution is surfaced in the response:**
 
+Q: What GPU should I buy for AAA gaming at 1440p?
+--------------------------------------------------
+[embed] Loaded existing collection 'gpu_cpu_guide' (282 chunks).
+A: For AAA gaming at 1440p, it's recommended to aim for a GPU with 16 GB of memory for future-proofing and better performance. However, if budget is a concern, an 8 GB GPU can still provide fine performance in most cases. A specific GPU model is not mentioned, but it's suggested to consider options that can stand toe-to-toe with more expensive Nvidia cards.
+
+Sources (2):
+  • https://www.pcgamer.com/the-best-graphics-cards/
+  • https://www.tomshardware.com/reviews/best-cpus,3986.html
+
+
+Q: What is the difference between a CPU and GPU?
+--------------------------------------------------
+[embed] Loaded existing collection 'gpu_cpu_guide' (282 chunks).
+A: CPUs and GPUs have different architectures and are built for different purposes. CPUs are general-purpose and handle tasks such as running programs, surfing the web, and calculations, while GPUs are specialized for highly parallel tasks like rendering visuals, video data manipulation, and intensive AI workloads. GPUs have many smaller, more specialized cores that deliver massive performance by working together in parallel. In contrast, CPUs are more focused on general instructions and requests from programs or software applications. Overall, CPUs and GPUs have distinct functions and are designed to handle different types of computing tasks.
+
+Sources (2):
+  • https://www.intel.com/content/www/us/en/products/docs/processors/cpu-vs-gpu.html
+  • https://www.ibm.com/think/topics/gpu
+
+
+Q: What is the best mechanical keyboard for gaming?
+--------------------------------------------------
+[embed] Loaded existing collection 'gpu_cpu_guide' (282 chunks).
+A: I don't have enough information in my sources to answer that.
+
+Sources (1):
+  • https://www.tomshardware.com/reviews/best-cpus,3986.html
 ---
 
 ## Evaluation Report
@@ -107,6 +134,7 @@ Answer the user's question using ONLY the information provided in the CONTEXT se
 
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
+These images lead to a screenshot of my table regarding this section (image.png and image-1.png)!
 
 ![alt text](image.png)
 ![alt text](image-1.png)
@@ -114,6 +142,9 @@ Answer the user's question using ONLY the information provided in the CONTEXT se
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
 
+The following images lead to a screenshot of my interface (image-2.png and image-3.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 ---
 
 ## Failure Case Analysis
