@@ -1,0 +1,130 @@
+What is a central processing unit (CPU)?
+A central processing unit (CPU) is the primary functional component of a computer. The CPU is an assemblage of electronic circuitry that run a computer’s operating system and apps and manage a variety of other computer operations.
+
+A CPU is, essentially, the active brain of the computer. The CPU is the invisible manager inside the computer where data input is transformed into information output. It stores and executes program instructions through its vast networks of circuitry.
+
+Like the human brain, the CPU can multitask. This means it is also the part of the computer that simultaneously regulates the computer’s internal functions, oversees power consumption, allocates computing resources and interfaces with various apps, programs and networks.
+
+If still unconvinced about how critically important CPUs are to computing, consider this: The CPU is the one part that’s found in every computer, regardless of that computer’s size or use. If you’re reading this on a smartphone or laptop or PC, you’re using a CPU at this very moment.
+
+Even though the term “CPU” sounds like we’re talking about a singular piece of equipment, that’s not the case. The CPU is actually an assembled lot of different computer components that work together in a highly orchestrated way.
+
+Guiding concepts: Data storage and memory
+Before discussing the unique parts of a CPU and how they interact, it’s important to first become familiar with two essential concepts that drive computing: data storage and memory.
+
+Data storage refers to the act of retaining information so it can be easily accessed later or even kept in perpetuity. Computers rely upon two types of storage, classified as either primary storage or secondary storage. Primary storage (which is also known as main memory, or just “the main”) contains operating instructions or data retrieval. The CPU routinely engages with the primary storage to get access to such data.
+
+Memory is an allocation of computer files from which specific operating instructions or other forms of digital information can be extracted and utilized. Memory usually takes the form of short-term storage for the files most often accessed during recent computer use. When a piece of data first enters an operating system (OS), it’s placed within that OS’s random-access memory (RAM).
+Here again, the CPU resembles the human brain in that both experience short-term memory and long-term memory. A CPU’s standard operating memory only stores RAM data “in the moment”, similar to a person’s short-term memory, before periodically purging it from the computer’s cache memory.
+
+Secondary storage is akin to long-term memory in humans and involves the permanent or long-term retention of data by archiving it on secondary storage devices, such as hard drives. Output devices like hard drives offer permanent storage. Permanent storage involves read only memory (ROM), which means data can be accessed but can’t be acted upon or altered.
+
+
+What are the components in a CPU?
+The following are the three primary components within a CPU.
+
+Control unit
+The control unit of the CPU houses circuitry that guides the computer system through a system of electrical pulses and notifies it to execute high-level computer instructions. But despite its name, the control unit itself doesn’t control individual apps or programs; instead, it assigns those tasks as a human manager assigns particular jobs to different workers.
+
+Arithmetic/logic unit
+The arithmetic/logic unit (ALU) handles all arithmetic operations and logical operations. Its math functionality is based on four types of operations (addition, subtraction, multiplication and division). Logical operations typically involve some type of comparison (such as of letters, numbers or special characters) that’s tied to a particular computer action.
+
+Memory unit
+The memory unit handles several key functions related to memory usage, from managing the data flow that occurs between RAM and the CPU to overseeing the important work of the cache memory. Memory units contain all types of data and instructions needed for data processing and offer memory-protection safeguards.
+
+The following CPU components are also essential:
+
+Cache: Memory speed is a critical aspect of how CPUs run, and yet, ironically, the CPU does not actually access RAM. Instead, modern CPUs have one or multiple layers of cache that routinely handle such tasks (at speeds faster than RAM can achieve) due to the cache’s advantageous position on the CPU’s processor chip.
+
+Registers: For immediate and constant data needs that must be satisfied quickly to ensure smooth operation (so the CPU can efficiently carry out its various data-processing instructions), the CPU uses registers, which are a form of permanent memory. By building registers into the CPU itself, those registers’ data can be accessed the millisecond it’s needed.
+
+Clock: It’s essential that the complicated circuitry within a CPU works together in a highly synchronized manner. The CPU’s clock manages this process by issuing electrical pulses at regular intervals, which coordinate with various computer components. The rate at which those pulses are delivered is referred to as clock speed, measured in Hertz (Hz) or megahertz (MHz).
+
+Instruction register and pointer: When an instruction set is being carried out by the CPU, the instruction pointer shows the location of the next instruction to be executed by the CPU. Once the current instruction has been accomplished, the next information pops into the instruction register and a new instruction will be spotlighted within the instruction pointer.
+
+Buses: A computer bus has a very singular role within most computers, ensuring proper data transfer and data flow between the computing components inside a computer system. The width of a bus describes the number of how many bits the bus transfers in parallel. Buses provide a way for computers to link CPUs to on-board memory and serve other purposes.
+How does a CPU function?
+CPU functionality is handled by the control unit, with synchronization assistance provided by the computer clock. CPU work occurs according to an established cycle, known as the CPU instruction cycle, that calls for a certain number of repetitions of the following basic computing instructions, as permitted by that computer’s processing power:
+
+Fetch: Fetches occur anytime data is retrieved from memory.
+
+Decode: The decoder within the CPU translates binary instructions into electrical signals that engage other parts of the CPU.
+
+Execute: Execution occurs when computers interpret and carry out a computer program’s set of instructions.
+It should be mentioned that with some basic tinkering, the computer clock within a CPU can be manipulated to keep time faster than it normally elapses. Some users do this to run their computer at higher speeds. However, this practice is not advisable since it can cause computer parts to wear out earlier than normal and can violate CPU manufacturer warranties.
+
+CPU backstory: ENIAC
+Computers are now understood to be such a fundamental part of contemporary living that it feels like they’ve always been with us. But of course, that’s not the case.
+
+It’s been said that all technology stands on the shoulders of giants. For example, in the history of computing there were early visionaries whose various experiments and writings helped shape the next generation of thinkers who then entertained further ideas about the potential of computing, and so forth.
+
+In the modern era, the story of computing began during conflict. World War II was raging when the US government contracted a group from the Moore School of Electrical Engineering at the University of Pennsylvania. Their mission was to build a completely electronic computer that could accurately compute distance amounts for artillery-range tables. Led by physicist John Mauchly and engineer J. Presper Eckert, Jr., work began in early 1943.
+
+The calculating machine they finished in early 1946 was called ENIAC, and it was literally and figuratively a huge development.
+
+ENIAC cost USD 400,000 (equivalent to approximately USD 6.7 million in 2024, when adjusted for inflation). It was constructed in a basement of the Moore School, occupying a whopping 1,500 square feet of floor space. A staggering number of computer components were required, including more than 17,000 vacuum tubes, 70,000 resistors, 10,000 capacitors, 6,000 switches and 1,500 relays. And in a telling bit of foreshadowing, the vacuum tubes produced so much heat that ENIAC required its own special air-conditioning system.
+
+Despite having a primitive CPU, ENIAC was a marvel for its time and could process as many as 5,000 equations per second. When WWII ended, ENIAC was immediately drafted into the emerging Cold War on the American side. Its first assignment was running calculations related to the building of a new weapon, the hydrogen bomb, which carried an explosive impact a thousand times stronger than atomic bombs.
+
+CPU backstory: UNIVAC
+ENIAC had demonstrated what a computer could do militarily. Soon the same team of Eckert and Mauchly created their own company to show the world how a computer could positively impact the world of business.
+
+The flagship creation of the Eckert-Mauchly Computer Corporation (EMCC), the UNIVAC 1 (usually just referred to as “the UNIVAC”), was a smaller, cheaper version of the ENIAC with various improvements that reflected the changing technology of its time.
+
+For starters, it made data entry easier and more expressive by including I/O devices like a keyboard from an electric typewriter, up to 10 UNISERVO tape drives for data storage, and a tape-to-card converter which would allow companies to use punch cards in addition to magnetic storage tape.
+
+Like its predecessor, the UNIVAC still required the use of a great deal of floor space (382 square feet), but this was a considerable downsizing from the ENIAC. However, the UNIVAC, with its added bells and whistles, cost considerably more than the ENIAC, typically going for around USD 1.5 million (around USD 11.6 million now).
+
+However, for that sum, the UNIVAC was able to perform amazing tricks. Most notably, CBS News used it to accurately predict the 1952 US Presidential election. Conventional Gallup polling had predicted a tight election, but the UNIVAC stunned all reporters by making an early call for a blow-out win by Dwight D. Eisenhower, which is exactly what happened. No one saw it coming, except the UNIVAC. The event stunned the public, which overnight gained an appreciation for the amazing analysis and predictions that computers could generate.
+
+Despite a sleeker profile, the UNIVAC was still massive, weighing just over 8 tons and requiring 125 kW of energy. The UNIVAC 1 was unveiled in 1951, with the first model purchased by the U.S. Census Bureau. Unfortunately, UNIVAC use was complicated by a serious design flaw, still relying upon glass vacuum tubes that were prone to various types of breakage and producing considerable amounts of excess heat.
+
+Fortunately, the next revolution in CPUs would directly address this problem.
+
+CPU backstory: Transistors
+The creators of both the ENIAC and the UNIVAC had suffered along with vacuum tubes because there was no viable alternative at the time. This all changed in 1953 when a research student at the University of Manchester showed that he’d found a way to construct a completely transistor-based computer. Richard Grimsdale’s creation was a 48-bit machine that contained 92 transistors and 550 diodes, and 0 glass vacuum tubes.
+
+Transistors had started being mass-produced in the early 1950s, but their use was originally complicated by the material being used, germanium, which was tricky to purify and had to be kept within a precise temperature range.
+
+By early 1954, scientists at Bell Laboratories started experimenting with silicon, which would eventually be embraced for computer chip production. But things didn’t really take off until Bell Laboratories’ Mohamed Atalia and Dawon Kahng further refined the use of silicon and created the metal-oxide-semiconductor field-effect transistor (or MOSFET, or MOS transistor).
+
+The two engineers had built a working prototype in late 1959 and by early 1960 it was unveiled for the world, ushering in the Transistor Age to begin with the new decade. By that decade’s end, the transistor was in wide use everywhere.
+
+In fact, the MOSFET became so universally popular and embraced globally over the passing decades that it’s since been celebrated as the “most widely manufactured device in history,” by the Computer History Museum. It was estimated in 2018 that 13 sextillion MOS transistors have been manufactured.
+
+For CPU design, transistors were a true game-changer, liberating computing from its bulky, oversized beginnings, and allowing the creation of more sleekly designed computers that required less space and could run more efficiently.
+
+What is a microprocessor?
+UNIVAC was a revelation for its day, despite its inadequacies and enormous size. Then came a stage when smaller motherboards were created and used some variety of computer chips. This eventually led to the development of the chipset, a single chip with multiple usages. And by now, modern CPUs have been miniaturized so well that the CPU, all of it, is housed within a small integrated circuit chip, known as a microprocessor.
+
+Microprocessors are designated by the number of cores they support. A CPU core is the “brain within the brain,” serving as the physical processing unit within a CPU. Microprocessors can contain multiple processors. Meanwhile, a physical core is a CPU built into a chip, but which only occupies one socket, thus enabling other physical cores to tap into the same computing environment.
+
+It’s worth noting that the term “microprocessor” should not be confused with “microcontroller.” A microcontroller is a very small computer that exists on a single integrated circuit. Microcontrollers typically contain at least one CPU, along with related memory and programmable I/O data.
+
+Here are some of the other main terms used in relation to microprocessors:
+
+Single-core processors: Single-core processors contain a single processing unit. They are typically marked by slower performance, run on a single thread and perform the CPU instruction cycle one at a time.
+
+Dual-core processors: Dual-core processors are equipped with two processing units contained within one integrated circuit. Both cores run at the same time, effectively doubling performance rates.
+
+Quad-core processors: Quad-core processors contain four processing units within a single integrated circuit. All cores run simultaneously, quadrupling their performance rates.
+
+Multi-core processors: Multi-core processors are integrated circuits equipped with at least two processor cores, so they can deliver supreme performance while using less energy.
+What are threads?
+Threads can be thought of as virtual sequences of instructions that are issued to a CPU. Primarily, they’re a way to divide workloads and share those responsibilities among different processors.
+
+Two related terms are multithreading and hyper-threading. In the former, tasks are split into distinct threads and run in parallel. Hyper-threading helps achieve even greater performance benefits because processors are used to carry out two threads at the same time.
+
+Graphics processing units (GPUs)
+Graphics processing units (GPUs) are made for the acceleration and enhancement of computer graphics and processed images. The GPU exists as a special electronic circuit that can be used on motherboards, as well as in PCs and game consoles.
+
+Notable makers of CPUs
+It’s sometimes assumed that since CPU technology is well established, it must be stagnant. However, there’s considerable evidence of continued innovation at work as new products are constantly created, all of them trying to offer the best CPU (or microprocessor) possible. The following companies repeatedly demonstrate that effort:
+
+Advanced Micro Devices (AMD): AMD has manufactured Ryzen microprocessors since its 2017 founding. Notable AMD Ryzen products (e.g., Ryzen 7, Ryzen 9) have been prized by video gamers for dependably delivering high-speed game action, while the Ryzen 5 1600 processor has scored well with those working in software development.
+
+Qualcomm: In terms of sheer manufacturing, Qualcomm presently leads a crowded pack of vendors all working in the CPU space. As of May 2024, samples of computer click rates suggested that Qualcomm had an impressive 37.4% click share, more than twice the share of its nearest rival.
+
+Arm: This is a marketplace where speed is a driving virtue. And although Arm doesn’t actually make microprocessors, it offers a way to license and use its chip technology, so third-party companies can ensure they benefit from the blazingly fast processing times that Arm-designed microprocessors offer.
+
+Intel: Intel has been a leading name in computer chip production for decades, having begun producing chips in 1975. Processors like the Intel Core i5 (introduced in 2009) have shown perfect compatibility with programs that require more processing power, such as video editing programs and software development programs.

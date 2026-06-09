@@ -1,0 +1,88 @@
+The best graphics card is, arguably, the one you can afford right now. Now, that might seem trite, but the reality is that, while prices are frustratingly high thanks to a whole host of reasons (*cough* AI), there are cards worth looking at in every segment. And though you might be swayed by the VRAM debate, our own testing shows that in the real world gaming with an 8 GB GPU is absolutely fine in most cases. It's also interesting to note that prices have essentially stabilised at their current level. While stock might be tight, there is stock and at prices which have remained consistent for the past month, with some actually dropping.
+I've tested and gamed on pretty much every new graphics card that's been released in this generation, from the Intel Battlemage cards that launched late 2024, through the initial Nvidia RTX Blackwell launch at the start of 2025, and on to AMD's RDNA 4 cards later last year. I believe that makes me well placed to talk you through what I think today's best graphics card is, and for me it's the AMD Radeon RX 9070.
+For most PC gamers this is the graphics card which offers the highest performance for the money, delivering decent 1440p performance, and much improved ray tracing over previous AMD generations of GPU. It's also rocking 16 GB of VRAM to be able to deliver on high graphics settings at that resolution now and into the future, too. It was priced appallingly at launch, but now it's settling down and delivering performance close to the RX 9070 XT and therefore the RTX 5070 Ti, too. It's also been remarkably resilient so far in the face of spiking GPU prices thanks to the ongoing RAMpocalypse.
+The absolute top, from a pure performance standpoint, however, still is the Nvidia RTX 5090. That's the best high-end graphics card with no other contenders getting near its mix of style, features, and raw computational grunt. It's also a card where no-one gets close in terms of price, either, especially with prices the way they are right now. At the budget end, we can no longer recommend Intel's B570, it doesn't have the value argument anymore and the reliability and relative performance of the RTX 5050 makes that now the best budget graphics card.
+Our detailed benchmarking shows just how close the RX 9070 gets to the far more expensive RTX 5070 Ti and RX 9070 XT, why it's our pick as the best current GPU to buy in 2026
+PC Gamer Logo
+Buy if...
+✅ You want a good 1440p GPU, and a great 1080p one: With the ray tracing updates baked into RDNA 4, the RX 9070 is now a fantastic all-round graphics card. It can nail 1440p and 1080p resolutions at top settings, and can call on FSR and AMD's frame generation feature to give you a boost if you need it.
+
+✅ You're happy to undervolt/overclock: With some easy tweaks in the AMD drivers you can boost the performance of the GPU to within a couple of percentage points of the RX 9070 and RTX 5070 Ti. And the best part is that it doesn't demand a ton more power or cooling to get there, so shouldn't stress you or your fancy new card.
+
+Don't buy if...
+❌ You can find an RX 9070 XT for anything close to the same price: While you can overclock the non-XT card to get within 2% of the performance, prices being equal the XT card is a no-brainer.
+
+The bottom line
+🪛 The Radeon RX 9070 is an excellent graphics card if you're looking for high 1440p performance without the almost $1,000 price points of the competing Nvidia cards. With the market as it is, the AMD card is the best GPU for most PC gamers.
+
+The RX 9070 is a rather agonising pick as the best graphics card around right now. There are inevitable caveats around my decision, because quite obviously this second-tier RDNA 4 GPU is not the most powerful GPU you can buy. The AMD Radeon RX 9070, however, is the graphics card I think makes the most sense to the most PC gamers.
+
+And, realistically, it's going to be the one that I would suggest to my PC gaming friends if they come looking for a recommendation. Luckily, I don't actually have friends.
+
+The RX 9070 offers close to the performance of AMD's most powerful RDNA 4 GPU, still packs in 16 GB of GDDR6 video memory, can be easily overclocked without demanding much more cooling or power, and handily outperforms Nvidia's similarly priced, lower-spec RTX 5070.
+
+I was relatively cool on the card in my initial review of the GPU, mainly because our first taste of it was a card that XFX hiked the price of out the gate, which made it more than a reference RX 9070 XT. As things have evened out, there are reliably cheaper RX 9070 cards around and when you look at the graphics card market as a whole, the Radeon stands out as a great pick.
+
+Yet I still haven't come to that conclusion lightly. My first thought was going to be recommending the $350 RX 9060 XT, because it is great value, performs well, and pretty much offers performance parity with the more expensive Nvidia option. But it doesn't feel like a great recommendation for the best graphics card, given that it is a third-tier Radeon that isn't particularly exciting.
+
+The Radeon RX 9070 XT, though, is a fantastic card and were it not for the ludicrous over-pricing of AMD's finest it would absolutely be my top pick. With an MSRP of $599 it would be an easy choice for its impressive performance out of the box, stunning under-volting frame rate bumps, and the excellent filip of the new FSR4 upscaler. But the cheapest you can get it for these days is still over $700, with the RX 9070 generally under $600 with very similar gaming performance, especially with some judicious undervolting.
+
+In the end, the extra raster performance of the Radeon RX 9070 over the RTX 5070—and how close it can get to the more expensive RTX 5070 Ti and RX 9070 XT GPUs—makes it the best graphics card to buy right now for most PC gamers.
+
+To be able to pick up a genuine 16 GB graphics card, with a seriously performant GPU core at its heart, for around $400 is pretty great. It would be even better if the card in question was actually retailing for its original MSRP, but even at the current slightly over MSRP pricing, the Radeon RX 9060 XT is still our pick for the best value graphics card today.
+
+Okay, the latest AMD RDNA 4 GPU is not quite living up to its launch claims of beating the RTX 5060 Ti, certainly not across our benchmarking suite, but at 1080p the Nvidia card is less than a percentage point ahead on average, and it's by only 3% at 1440p. Effectively, I think we can kinda call that parity.
+
+The GeForce card is more consistently ahead at 4K—even though they both carry 16 GB on the top versions of the card—but neither are capable of actually playable frame rates at that resolution. And even the boon of Multi Frame Generation can't help in reality.
+
+But the parity at 1440p and 1080p itself is impressive for the AMD card, especially when you take into account that we're testing games which have pretty hefty ray tracing workloads in them as part of our benchmarking gauntlet. Historically that's where AMD cards have fallen down against Nvidia, but the new RDNA 4 architecture has changed around how the Radeon cards deal with ray tracing, giving them more dedicated silicon to do the work, and that has made all the difference.
+
+Another area where there has been historic Nvidia dominance is in the feature set, and honestly, the green team still has the edge on that count. The twin pillars of DLSS 4 upscaling and the Multi Frame Generation (MFG) feature do give the GeForce card some real merit. But the quality experience of MFG is very dependent on there being a relatively high, consistent frame rate before the interpolation of up to three extra frames kicks in. That means its effectiveness does diminish lower down the GPU stack.It's worth noting here that it's the 16 GB version of this card that we're recommending here (though if you simply cannot go north of $350, the 8 GB version wouldn't be a bad shout). Both AMD and Nvidia have released twin versions of their cards with 16 and 8 GB VRAM allocations and, given the memory-intensive direction detail-heavy modern games are going, that extra memory headroom will be valuable even if you're gaming at 1440p.
+
+So, our recommendation would be to aim for that 16 GB version if you have the patience to save up a little longer, as it will help in the long run. Then you'll be rocking a real solid, pretty low power GPU, that can stand toe-to-toe with the more expensive Nvidia cards.Difficult GPU recommendations is kinda the theme for this graphics card tier list, and they don't come much tougher than the budget pick. In a world where GPU pricing has been trending ever higher since the memory crisis bit, and even prior to that with the pandemic and ethereum mining booms, it's hard going trying to find a really cheap graphics card that's still worth the money in 2026.
+
+Up to now, the Intel Arc B570 had been our pick as the best budget GPU, because it was sitting under the $200 mark and genuinely had a value proposition to it. But given that the price of Intel's little-card-that-almost-could has gone up quite considerably, where you can find it, it's a much harder GPU to recommend. It's occasional driver issues (Cyberpunk 2077, for example, is still a bit of a mess) are much less forgiveable when it shares approximate pricing to Nvidia's cheapest RTX Blackwell card.
+
+That means, for me, the RTX 5050 is now the go-to pick for best budget graphics card.
+
+It's not an exciting card, doesn't really replace an equivalent GPU from the previous generation (the RTX 4050 was restricted to laptops), and actually comes in a little behind the performance of the last-gen RTX 4060. So yeah, if you're still rocking that older Ada GPU, there's no upgrade for you here.
+
+But what it is, is reliable and relatively cheap. At around the $260 mark it's a similar price to the Arc B570, but suffers from none of the driver issues I've had with the Intel GPU in testing. And it's also generally quicker at 1080p. In our standard GPU test suite, the RTX 5050 posts, on average, 11% higher frame rates than the Intel chip, and 6% higher at 1440p.
+
+You'll note there's a significant difference in that performance delta as the resolutions get more demanding, and in fact it turns around at 4K where the B570 takes an almost 3% lead. That's down to the fact that the Intel card comes with 10 GB off VRAM against the RTX 5050's 8 GB GDDR6.
+
+But, realistically, you're not buying a $260 GPU to game at 4K, and if you are you will be very disappointed whichever card you buy. So, down at this level, the rabid hate for an 8 GB frame buffer makes less sense.
+
+Looking at an frame rate averaged across our 1080p benchmark suite, you get 57 fps from the RTX 5050, while the B570 sits at 51. That means you're getting near 60 fps performance on average, all at the highest performance settings in some of the most demanding games, and notably without upscaling or frame generation.
+
+I will say, however, that when you do take into account Nvidia and Intel's upscaling performance at the low-end, then the performance does even out. Either way, that does then mean you're averaging over 60 fps at 1440p with those options enabled.
+
+Still, when the GeForce GPU is that bit more reliable, that's where I'd be spending my money right now.The AMD Radeon RX 9070 XT is the current best mid-range graphics card you can buy today, though obviously that term is getting stretching mightily by a graphics card that is now regularly retailing for more than $700. But where once it was a straight fight between it and the Nvidia RTX 5070 Ti for the title, the current pricing issues have made that an unfair contest.
+
+Nvidia GPUs, for various reasons, have been more noticeably affected by the price hikes than AMD cards. And here that manifests as an almost $300 price difference between the two once-similarly priced GPUs. Honestly, only a fool would pay that sort of premium for the GeForce card while it remains an almost $1,000 card.
+
+That's because the actual performance delta really isn't that great. You can look at the benchmark numbers up there 👆 and see just how closet there are. Most especially when you take overclocking into account.
+
+Both AMD and Nvidia chips of this generation have an impressive amount of headroom baked into them, accessed in different ways, but both able to deliver a good chunk of extra performance for the eager tweaker. And it's not hard to do either. With the RX 9070 XT it's a case of undervolting the GPU, and thereby giving it some thermal headroom to unlock higher clock speeds and therefore higher frame rates.
+
+And you get all that without increasing the power or thermal demands on the card all that much, either. It really is genuinely and truly worth doing for anyone with an RDNA 4 card in their gaming PC. Free frames, people.
+
+One other thing the RDNA 4 generation of Radeon GPUs brought with it was FSR 4. More than just an iterative improvement of AMD's upscaling tech, FSR 4 represents a fundamental change in how its graphics cards approach the problem, bringing them more in line with how Nvidia does it. That means it's taking a machine learning approach for the first time, and is delivering genuinely impressive levels of image and motion clarity for cards like the RX 9070 XT.
+
+Running games in 4K with FSR 4 Performance mode and I would challenge you to be able to tell the difference between that and a native 4K render in normal gameplay without resorting to pixel-peeping.The RTX Blackwell generation of new GPUs has kicked off with a bang, and means that right now, the best graphics card is undoubtedly the Nvidia RTX 5090. And is likely to remain that way for the next two years at least. Given the fact that AMD isn't going to release a competitor card for the top GeForce GPU in the RDNA 4 generation, you can be confident if you pick one of these up today (or when they come back in stock) you will still be gaming on the best GPU probably until the next Nvidia generation is released.
+
+While that might make for miserable reading for AMD fans, it should be a little more comforting for anyone hellbent on spending $3,700+ on a new graphics card. It will, at least, last the course at the top of benchmarking tree. The fact that current pricing has almost doubled the cost of the RTX 5090, however, should give anyone considering it for gaming serious pause for thought.
+
+You are only getting some 30% extra gen-on-gen performance over the RTX 4090 at 4K, and that is the smallest performance bump over a previous generation's top card since Turing came along. But there's a magic trick up the sleeve of the RTX Blackwell cards, and that is Multi Frame Generation.
+
+Right now, it's limited to the RTX 50-series—else it would likely cannibalise sales to a huge extent down the stack if RTX 40-series GPUs were allowed into the MFG party—and it adds in up to three more frames in between each actually rendered pair. Using a feature called Flip Metering, which utilises an enhanced bit of silicon in the RTX 50-series Display Engine, it offloads all the burden of frame pacing from the CPU, puts it all on the GPU, and allows the RTX 5090 to queue up all these extra AI-generated frames perfectly for the display.
+
+Along with a new AI-based frame generation model, Multi Frame Generation is able to hugely increase the potential performance of the RTX 5090 in any game which supports it, and the results are frankly incredible. There are some small artifacts—though nothing that would stop me using the feature—but the really impressive thing is that it adds practically no extra latency on top of the standard 2x Frame Generation experience.
+
+And that itself has been lowered thanks to that new FG AI model which makes it 40% quicker and 30% less VRAM hungry at the same time. The good news for RTX 40-series patrons is that model at least is coming to standard Frame Gen in the Ada generation, too.
+
+There are also a ton of games at launch with immediate compatibility with MFG, either with it natively implemented in the game, à la Cyberpunk 2077, or via the new DLSS Override feature in the Nvidia App, as in Dragon Age: The Veilguard.
+
+It's also the most powerful consumer GPU when it comes to creator tasks, too, thanks to its hefty 32 GB of GDDR7 and its massive bandwidth, but also because it's so damned good with an AI noodling if GenAI is your thing.
+
+In short, the RTX 5090 is the best graphics card for anyone who wants the absolute finest silicon and feature set of any consumer GPU going. You're just going to have to pay through the nose for it until stock settles down. If it ever does to an extent that MSRP versions of the card become readily available.

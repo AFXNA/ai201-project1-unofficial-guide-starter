@@ -1,0 +1,32 @@
+Playing games at their maximum settings has a way of revealing the developer’s intentions. This could translate into fuller, more realistic experiences and more meticulous levels of detail. But you can’t just flip a switch and “turn on” settings like draw distance, cloth simulation, and destruction physics. Each of them scale depending on the quality of your hardware.
+
+But how exactly does having a higher-end CPU translate into richer gameplay? We asked the technical directors behind Total War: THREE KINGDOMS and HITMAN 2, two games that demonstrate how powerful CPUs affect your gaming experience.
+
+Total War: THREE KINGDOMS
+In a real-time strategy game like Total War: THREE KINGDOMS, epic battles mean armies of epic proportions. The truth, however, is that accounting for every individual troop on the field can be incredibly taxing for your computer.
+
+“Total War battles are unique because of their scale,” THREE KINGDOMS’ Technical Director Chalie Dell said. “We model thousands of soldiers with a great level of detail applied to each in terms of animations, interactions, pathfinding decisions and so on.”
+
+In addition, the CPU is often juggling many tasks at the same time depending on what’s being displayed onscreen. “Let’s take a scene where two huge frontlines of thousands of troops are clashing, and you have the camera zoomed in fairly close,” Dell said. “In this situation, the CPU’s time will mostly be split between entity agent-based combat, collision mechanics, and building the matrix stacks in order to draw all the entities.” In other words, the CPU has to manage the presence and interactions of thousands of NPCs at the same time.
+
+These are situations best mediated by parallelization, a process that involves delegating processing tasks to different cores in a multi-core CPU. Thus, THREE KINGDOMS’ performance scales according to the number of cores available. “The more cores the engine has at its disposal, the more soldiers we can display in any fixed period of time,” Dell said. “This is best illustrated in Total War: THREE KINGDOMS’ new Dynasty Mode, where you can crank the unit count up by 500%. The more cores your CPU has, the better framerate you get.”
+
+Having multiple cores isn’t the only important thing to consider, however. “Certain aspects of our simulation are less easily parallelized, such as the AI processing,” Dell explained. “When a large amount of instructions like this is executed on a single core, a higher clock speed is desirable in order to keep things running smoothly.”
+
+The CPU has multiple roles in powering games. “Straight-line performance and multiple cores across which to spread the workload are both desirable CPU qualities for Total War players,” Dell concluded.
+
+HITMAN 2
+From the bustling streets of Mumbai to a colorful racetrack in Miami, HITMAN 2’s detailed environments experience palpable benefits when using a CPU with more cores. “HITMAN 2 on PC is able to scale up its quality by using the additional power provided by more cores,” HITMAN 2’s Technical Director Maurizio De Pascale said.
+
+HITMAN 2 even buckets its in-game settings into three different levels of “CPU simulation”: “base” is the default for machines with four cores, “better” is the default for machines with six cores, and “best” is the default for any machine with over eight cores.
+
+So how does CPU affect performance when you choose to game with the “best” settings? “This will affect things like audio, crowds, cloth simulation, NPC animation, and destruction, just to name the major ones,” De Pascale said. “Crowds will be denser yet at the same time provide more visual variety with bespoke animations and behaviors. For instance, in the Miami level, you'll see many of them waving cloth-simulated flags.”
+
+Though HITMAN 2’s largest level houses as many as 300 NPCs, only a small fraction of the NPCs actually receive a full update every frame. In other words, you might observe a lower frame rate in the animations of some NPCs than those of others depending on how many are onscreen at a time. “This can result in NPCs in the distance being updated at lower frequency and manifests with visible glitches in their animations,” De Pascale said. Having more cores increases the amount of NPCs that receive a full update per frame, with the “base” level updating 40, the “better” level updating 80, and the “best” level updating 120 NPCs.
+
+Crowd density isn’t the only important element affected by the power of the player’s CPU. When using the “best” settings, destructible objects are capable of producing more particles and shards. Even audio effects benefit directly from having access to more cores. “On CPUs with higher core counts, we use a more costly algorithm for the convolution reverb, which results in an audio experience that is less gamey and more realistic and immersive,” De Pascale described. For example, when using the “best” settings, the sound of a gunshot from the room next door will possess the reverb of the room in which Agent 47 is currently standing, which is how you would hear the gunshot in person. When using lower settings, however, the sound of the gunshot might obtain the reverb from the room in which it originated, resulting in a less realistic experience.
+
+Realism and immersion are at the heart of what makes HITMAN 2 such an impressive experience when played with a high-end CPU. Though De Pascale said that players using the “base” and “best” settings will encounter identical gameplay, he noted that playing with better settings heightens the overall quality of the experience. “In a sense, this multi-core powered experience on your gaming PC is closer to what our designers had originally intended for the game,” De Pascale said.
+
+Gaming with a Sharper Eye
+In short, CPUs manage a multitude of elements that make gameplay more realistic and make world-building more comprehensive. Knowing exactly how CPUs affect your gaming experience, however, makes you both a better PC owner and a more conscientious gamer.

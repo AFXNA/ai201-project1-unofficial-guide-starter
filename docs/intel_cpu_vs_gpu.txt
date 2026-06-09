@@ -1,0 +1,58 @@
+rom gaming to video editing to productivity to complex AI experiences1, computing systems today are being asked to do more than ever. CPUs, GPUs, and NPUs have different roles and unique strengths.
+
+What is a CPU?
+
+Constructed from billions of transistors, the central processing unit (CPU) can have multiple processing cores and is commonly referred to as the “brain” of the computer. It is essential to all modern computing systems, as it executes the commands and processes needed for your computer and operating system. The CPU is also important in determining how fast programs can run while doing tasks such as surfing the web, running calculations for game physics and other programs, or building spreadsheets.
+
+What is a GPU?
+
+The graphics processing unit (GPU) has many smaller, more specialized cores. These cores deliver massive performance by working together and dividing processing tasks across many cores simultaneously (or in parallel). The GPU excels at highly parallel tasks like rendering visuals during gameplay, manipulating video data during content creation, and computing results in intensive AI workloads.
+
+What is the difference between a CPU and a GPU?
+
+CPUs and GPUs have a lot in common: both are critical computing engines, both are silicon-based microprocessors, and both handle data. But CPUs and GPUs have different architectures and are built for different purposes.
+
+The CPU is suited for various tasks, especially those for which latency or per-core performance is important. A powerful execution engine, the CPU focuses its fewer cores on individual tasks and getting things done quickly. This makes it uniquely well-equipped for jobs ranging from serial computing, where only one task is executed at a time on a single processor, to running databases.
+
+GPUs began as application-specific integrated circuits (ASICs) designed for specialized purposes such as accelerating graphics and 3D rendering tasks like gaming. Over time, these fixed-function engines became more programmable and more flexible. While graphics and hyper-realistic gaming visuals remain their principal function, GPUs have become more general-purpose parallel processors, able to execute many tasks simultaneously to handle a growing range of applications, including AI.
+
+Today, it is no longer a question of CPU versus GPU. More than ever, you need both to meet your varied computing demands. The best results are achieved when the right tool is used for the job.
+
+What about a CPU/GPU combination?
+
+Some CPUs include a GPU on the same chip for built-in graphics and additional benefits. This CPU/GPU combination does not require additional dedicated or discrete graphics. It is often used in devices where compact size and energy efficiency are important, such as laptops, tablets, smartphones, and some desktops.
+
+CPUs with built-in GPUs deliver space-, cost-, and energy-efficiency benefits over dedicated graphics processors. Plus, they provide the horsepower to handle the processing of graphics-related data and instructions for common tasks. Processors with built-in graphics are great for light gaming, streaming media, and video editing.
+
+Accelerating deep learning and AI
+
+Today, certain CPUs also come with neural processing units (NPUs), which work with GPUs directly on the processor to perform the kind of high-performance inferencing tasks required by AI. These specialized processors accelerate AI tasks and are ideal for preparing pre-trained neural networks for the inferencing stage of AI—where capabilities learned during the training stage are used to make predictions. As AI becomes increasingly important, the NPU/GPU combination will become a mainstay of future computing systems.
+
+With sufficient RAM, the CPU/NPU/GPU processor offers a great testbed for deep learning and AI.
+
+Decades of leadership in CPU development
+
+Intel has a long history in CPU innovation, beginning in 1971 with the introduction of the 4004, the first commercial microprocessor completely integrated into a single chip.
+
+Today, our CPUs enable a range of scalable AI experiences on the x86 architecture you know. From high-performance Intel® Xeon® Scalable processors in the data center and cloud to power-efficient Intel® Core™ Ultra processors at the edge, we deliver a CPU to help you achieve your goals.
+
+Intel® Core™ Ultra processors
+
+Our premium architecture, the Intel® Core™ Ultra processor, delivers optimal power efficiency and performance. Intel® Core™ Ultra processors contain an integrated NPU, while select offerings2 contain built-in Intel® Arc™ GPUs. The result is a single processor that lets users enjoy extreme AI acceleration, immersive gameplay, 4K media consumption.
+
+Intel® Core™ processors (14th gen)
+
+Intel Core processors (14th gen) leverage performance hybrid architecture with faster Performance-cores (P-cores) and more Efficient-cores (E-cores) with industry-leading tools to maximize performance and multitasking capabilities.
+
+Select Intel Core (14th gen) processor-based laptops may include Intel® Iris® Xe graphics or our latest high-performance graphics solution, Intel® Arc™ GPUs, which enable built-in machine learning, graphics acceleration, and ray tracing hardware for laptops, desktops, and professional workstations.
+
+Discrete GPU options
+
+We offer two discrete GPU options.
+
+The Intel® ArcTM GPU lineup contains high-performance graphics solutions that let you create compelling content, captivate your audience, and supercharge your gaming experience. Intel® Arc™ GPUs enable built-in machine learning, graphics acceleration, and ray tracing hardware for laptops, desktops, and professional workstations.
+The Intel® Data Center GPU supports emerging technologies like AI, rendering, analytics, and simulations. It also adds powerful parallel processing capabilities to data center CPUs.
+From CPU to GPU to hybrid
+
+Whether you’re looking to enhance gameplay, bring your creative ideas to life, or explore the world of deep learning, processors from Intel with integrated graphics provide the CPU and GPU capabilities—and more—that you need for a superior computing experience. If you want to add graphics support to your Intel processor-based devices or data centers, our discrete GPU options are ready to enable acceleration and parallel processing capabilities.
+

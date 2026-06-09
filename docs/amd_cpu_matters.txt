@@ -1,0 +1,49 @@
+Artificial intelligence (AI) workloads have deservedly placed GPUs in the spotlight, but there’s a clutch player often overlooked: the host CPU.
+
+While GPUs execute model computations, host CPUs act as air traffic controller, orchestrating everything else – handling data movement, managing inference requests, and batching and scheduling workloads. If your CPU isn’t optimized for AI, your GPUs won’t crank at peak performance. A slow CPU means bottlenecks, underutilized GPUs, and longer inference times, which can increase costs and reduce scalability.
+
+In a new white paper titled, Maximize AI GPU Efficiency with AMD EPYC™ High Frequency Processors, AMD technologists unpack the performance impact of host CPUs on GPU-based AI workloads, backed by real-world benchmarks. This blog highlights key findings, explains why high-frequency CPUs like AMD EPYC™ 9575F are essential, and breaks down the role of the CPU in AI inference and demonstrates on average 8 and 9% faster inference times on average on Nvidia H100 and AMD Instinct™ MI300 GPUs respectively.
+
+The Host CPU: The Unsung Hero of AI Inference
+
+No GPU operates in isolation—it relies on a host CPU to:
+
+Fetch and preprocess data
+Manage inference requests and batching
+Schedule GPU execution efficiently
+Handle memory paging to avoid bottlenecks, and
+Finalize and return results to users
+If your CPU can’t keep pace, GPUs sit idle, wasting power and compute cycles. The key to AI efficiency isn’t just more GPUs – it’s the right balance between GPU and CPU.
+
+Understanding the Inference Pipeline: Why the CPU is a Bottleneck
+
+A GPU-based AI system isn’t just about raw compute—it’s about managing the entire inference process efficiently. That’s where the host CPU comes in.
+
+When a user submits an inference request, it first lands at the Inference API Server, which queues and forwards it to the Runtime Engine—a critical component running on the CPU. The Runtime Engine performs multiple optimization tasks to keep the GPU fully utilized and minimize latency like batching, K-V cache paging and graph orchestration.
+
+Once the data is prepped and optimized, it’s sent to the GPU, where inference is executed. After processing, the CPU finalizes and returns the results to the user.
+
+This entire pipeline depends on the host CPU’s ability to handle multiple simultaneous AI queries without bottlenecks. If the CPU isn’t fast enough, latency spikes, GPU efficiency drops, and response times suffer—leading to wasted compute resources.
+
+Optimizing AI Inference – What Type of CPU is Needed
+
+To ensure peak GPU utilization, two CPU characteristics are essential:
+
+Memory Interface – Importance of Capacity and Speed: AI inference depends on how quickly data moves, not just compute capacity. The CPU must efficiently store, retrieve, and process massive amounts of incoming data before sending it to the GPU. High-capacity memory enables larger batch sizes and more efficient key-value (KV) caching, reducing fetching delays. High memory bandwidth ensures AI models can retrieve embeddings and cached data quickly, reducing bottlenecks.
+AMD EPYC ™ 9575F, with DDR5 memory and high bandwidth, optimizes AI inference by reducing slow data retrieval cycles.
+
+Core Frequency – Faster CPUs Keep AI Pipelines Flowing: A high-frequency CPU prevents bottlenecks in AI workloads by ensuring fast execution of batching, tokenization, and GPU scheduling. Higher clock speeds reduce latency in token processing, scheduling, and detokenization. Faster CPU response time means GPUs get data instantly, keeping them fully utilized instead of waiting for instructions.
+AMD EPYC™ 9575F, with a 5 GHz max frequency and high single-thread performance, ensures AI workloads run with minimal delays.
+
+Benchmarking AI Performance: AMD EPYC™ vs. Intel Xeon
+
+To quantify the impact of host CPUs on AI inference, we tested AMD EPYC™ 9575F vs. Intel Xeon 8592+ in AMD Instinct™ MI300x and NVIDIA H100 GPU-based systems.Across the board, AMD EPYC™ CPUs reduced inference latency, leading to more efficient GPU utilization.
+
+Key Findings
+
+9% faster inference times on average on the8x AMD Instinct™ MI300 GPU-based systemsacross AI models like Llama 3.1 & Mixtral
+8% faster inference times on average on the 8x Nvidia H100 GPU-based systems, respectively, across AI models like Llama 3.1 & Mixtral
+Higher GPU utilization, reducing idle time & cost
+Final Thoughts: Optimizing AI Workloads Beyond GPUs
+
+A high-performance host CPU ensures GPUs stay fully utilized, delivering lower inference latency, higher throughput, and better overall AI efficiency.

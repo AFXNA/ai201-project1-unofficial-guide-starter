@@ -1,0 +1,128 @@
+What is a graphics processing unit (GPU)?
+A graphics processing unit (graphical processing unit, GPU) is an electronic circuit designed to speed computer graphics and image processing on various devices. These devices include video cards, system boards, mobile phones and personal computers (PCs).
+
+By performing mathematical calculations rapidly, a GPU reduces the time needed for a computer to run multiple programs. This makes it an essential enabler of emerging and future technologies such as machine learning (ML), artificial intelligence (AI) and blockchain.
+
+Before the invention of GPUs in the 1990s, graphics controllers in PCs and on video game controllers relied on a computer's central processing unit (CPU) to run tasks. Since the early 1950s, CPUs have been the most important processors in a computer, running all instructions necessary to run programs, such as logic, controlling and input/output (I/O).
+
+However, with the advent of personal gaming and computer-aided design (CAD) in the 1990s, the industry needed a faster, more efficient way to combine pixels quickly.
+
+In 2007, Nvidia built CUDA™ (Compute Unified Device Architecture), a software platform and application programming interface (API) that gave developers direct access to GPUs' parallel computation abilities, empowering them to use GPU technology for a wider range of functions than before.
+
+In the 2010s, GPU technology gained even more capabilities, perhaps most significantly ray tracing (the generation of computer images by tracing the direction of light from a camera) and tensor cores (designed to enable deep learning).
+
+Because of these advancements, GPUs have played important roles in AI acceleration and deep learning processors, helping speed the development of AI and ML applications. Today, in addition to powering gaming consoles and editing software, GPUs power cutting-edge compute functions critical to many enterprises.
+
+How does a GPU work?
+A GPU has its own random access memory (RAM), an electronic memory used to store code and data that the chip can access and alter as needed. Advanced GPUs typically have RAM that has been built to hold the large data volumes required for compute-intensive tasks such as graphics editing, gaming or AI/ML use cases.
+
+Two popular kinds of GPU memory are Graphics Double Data Rate 6 Synchronous Dynamic Random-Access Memory (GDDR6) and GDDR6X, a later generation. GDDR6X uses 15% less power per transferred bit than GDDR6, but its overall power consumption is higher because it is faster. iGPUs can be either integrated into a computer's CPU or inserted into a slot alongside it and connected by a PCI express port.
+
+What's the difference between a GPU and a CPU?
+CPUs and GPUs share a similar design, including a similar number of cores and transistors for processing tasks, but CPUs are more general purpose in their functions than GPUs. GPUs tend to be focused on a singular, specific computing task, such as graphics processing or machine learning.
+
+CPUs are the heart and brain of a computer system or device. They receive general instructions or requests regarding a task from a program or software application. And GPU has a more specific task—typically involving the processing of high-resolution images and videos quickly. GPUs constantly perform complex mathematical calculations required for rendering graphics or other compute-intensive functions to accomplish their task.
+
+One of the biggest differences is that CPUs tend to use fewer cores and perform their tasks in a linear order. GPUs, however, have hundreds—even thousands—of cores, enabling the parallel processing that drives their lightning-fast processing capabilities.
+
+The first GPUs were built to speed up 3D graphics rendering, making movie and video game scenes seem more realistic and engaging. The first GPU chip, the GeForce from Nvidia, was released in 1999 and was quickly followed by a rapid period of growth that saw GPU capabilities expand into other areas due to their high-speed parallel processing capabilities.
+
+Parallel processing, or parallel computing, is a kind of computing that relies on two or more processors to accomplish different subsets of an overall computing task.
+
+Before GPUs, older-generation computers can run only one program at a time, often taking hours to complete a task. GPUs' parallel processing function performs many calculations or tasks simultaneously, making them faster and more efficient than CPUs in older computers
+
+What are the different types of GPUs?
+There are three types of GPUs:
+
+Discrete GPUs
+Integrated GPUs
+Virtual GPUs
+Discrete GPUs
+Discrete GPUs, or dGPUs, are graphics processors that are separate from a device's CPU, where information is taken in and processed, allowing a computer to function. Discrete GPUs are typically used in advanced applications with special requirements, such as editing, content creation or high-end gaming. They are distinct chips with connectors to separate circuit boards and attached to the CPU by using an express slot.
+
+One of the most widely used discrete GPUs is the Intel Arc brand, built for the PC gaming industry.
+
+Integrated GPUs
+An integrated GPU, or iGPU, is built into a computer or device's infrastructure and typically slotted in next to the CPU. Designed in the 2010s by Intel, integrated GPUs became more popular as manufacturers such as MSI, ASUS and Nvidia noticed the power of combining GPUs with CPUs rather than requiring users to add GPUs by a PCI express slot themselves. They remain a popular choice for laptop users, gamers and others who are running compute-intensive programs on their PCs.
+
+Virtual GPUs
+Virtual GPUs, or vGPUs, have the same capabilities as discrete or integrated GPUs but without the hardware. They are software-based versions of GPUs built for cloud instances and can be used to run the same workloads. Also, because they have no hardware, they are simpler and cheaper to maintain than their physical counterparts.
+
+AI Academy
+
+Achieving AI-readiness with hybrid cloud
+Achieving AI-readiness with hybrid cloud
+Led by top IBM thought leaders, the curriculum is designed to help business leaders gain the knowledge needed to prioritize the AI investments that can drive growth.
+
+Go to episode 
+What is a cloud GPU?
+A cloud GPU refers to accessing a virtual GPU by a cloud service provider (CSP). In recent years, the market for cloud-based GPU services has grown, driven by the acceleration of cloud computing and increased adoption of AI/ML-based applications. In a report from Fortune Business Insights, the GPU as a service (GPUaaS) market, valued at USD 3.23 billion in 2023, is projected to grow from USD 4.31 billion in 2024 to USD 49.84 billion by 2032. 1
+
+Many CSPs, including Google Cloud Platform, Amazon Web Services (AWS), Microsoft and IBM Cloud®, offer on-demand access to scalable GPU services for optimized workload performance. CSPs provide pay-as-you-go virtualized GPU resources in their data centers. They often use GPU hardware from top GPU manufacturers such as Nvidia, AMD and Intel to power their cloud-based infrastructure.
+
+Cloud-based GPU offerings usually come with preconfigurations and can be deployed easily. These features help organizations avoid the upfront costs and maintenance associated with physical GPUs. Moreover, as enterprises look to integrate generative AI workloads to perform advanced computational tasks (for example, content creation, image generation), the scalability and cost-effectiveness provided by cloud-based GPUs have become crucial for enterprise business.
+
+What are GPU benchmarks?
+GPU benchmarks provide a process for evaluating GPU performance under various conditions. These specialized software tools allow users (for example, gamers, 3D artists, system developers) to gain insights into their GPUs and address performance issues such as bottlenecks, latency and compatibility with other software and hardware.
+
+There are two main types of GPU benchmarks: synthetic and real-world benchmarks. Synthetic benchmarks test a GPU's raw performance in a standardized environment. Real-world benchmarks test a GPU's performance in specific applications.
+
+GPU benchmarking tools look at performance metrics such as speeds, frame rates and memory bandwidth. They also look at thermal efficiency and power usage to help users achieve optimal performance based on specific needs. Some GPU benchmark platforms also incorporate tests that measure how well a solid-state drive (SSD) interacts with a GPU.
+
+Modern GPU use cases
+As GPUs developed over time, technical improvements made them more programmable, and more capabilities were discovered. Specifically, their ability to divide tasks across more than one processor—parallel processing—has made them indispensable to a wide range of applications, such as PC gaming, high-performance computing (HPC), 3D rendering workstations, data center computing and many others.
+
+Here's a closer look at some of the most important, modern applications of GPU technology, including:
+
+Artificial intelligence
+Machine learning (ML) and deep learning (DL)
+Blockchain
+Gaming
+Video editing
+Content creation
+High-performance computing (HPC)
+Visualization and simulation
+Artificial intelligence
+AI and its many applications would arguably be impossible without GPU computing. GPUs' ability to solve highly technical problems faster and more efficiently than traditional CPUs makes them indispensable. GPUs are crucial components of many supercomputers, particularly for AI supercomputers.
+
+GPUs power many leading AI applications, such as IBM's cloud-native AI supercomputer Vela, that require high speeds to train on larger and larger datasets. AI models train and run on data center GPUs, typically operated by enterprises conducting scientific research or other compute-intensive tasks.
+
+Machine learning (ML) and deep learning (DL)
+Machine learning, or ML, refers to a specific discipline of AI concerned with the use of data and algorithms to imitate the way humans learn. Deep learning, or DL, is a subset of ML that uses neural networks to simulate the human brain's decision-making process. GPU technology is critical to both areas of technological advancement.
+
+When it comes to ML and DL, GPUs power the models' ability to sort through massive data sets and make inferences from them in a similar way to humans. GPUs specifically enhance the areas of memory and optimization because they can perform many simultaneous calculations at once. Also, GPUs used in ML and DL use fewer resources than CPUs without a dip in power or accuracy.
+
+Blockchain
+Blockchain, the ledger used to record transactions and track assets in business networks, relies heavily on GPU technology, especially when it comes to a step called "proof of work." In many widely used blockchains, such as cryptocurrencies, the proof of work step is vital to the validation of a transaction, allowing it to be added to the blockchain.
+
+Gaming
+The gaming industry first tapped the power of GPUs in the 1990s to improve the overall gaming experience with more speed and graphical accuracy. Today, personal gaming is highly compute-intensive because of hyperreal scenarios, real-time interactions and vast, immersive in-game worlds.
+
+Trends in gaming such as virtual reality (VR), higher refresh rates and higher resolution screens all depend on GPUs to speedily deliver graphics in more demanding compute environments. GPUs for gaming include AMD Radeon, Intel Arc and Nvidia GeForce RTX.
+
+Video editing
+Traditionally, long render times have been a significant blocker in both consumer and professional editing software applications. Since their invention, GPUs have steadily reduced processing times and compute resources in video editing products such as Final Cut Pro and Adobe Premiere.
+
+Today, GPUs equipped with parallel processing and built-in AI dramatically speed up editing capabilities for everything from professional editing suites to smartphone apps.
+
+Content creation
+Improvements in processing, performance and graphics quality have made GPUs essential to transforming the content-creation industry. Today, content creators equipped with a top-performing graphics card and high-speed internet can generate realistic content, augment it with AI and machine learning and edit and stream it to a live audience faster than ever—all largely thanks to advancements in GPU technology.
+
+High-performance computing
+In HPC systems, GPUs use parallel processing capabilities to accelerate computationally intensive tasks, such as complex mathematical calculations and large data analysis in fields such as drug discovery, energy production and astrophysics.
+
+Visualization and simulation
+GPUs are in high demand across many industries to enhance the experience and training capabilities of complex, professional applications, including product walkthroughs, CAD drawings and medical and seismic or geophysical imaging. GPUs are critical in advanced visualizations (e.g., professional training of firefighters, astronauts, schoolteachers) with 3D animation, AI and ML, advanced rendering and hyperrealistic virtual reality (VR) and augmented reality (AR) experiences.
+
+Also, engineers and climate scientists use simulation applications powered by GPUs to predict weather conditions, fluid dynamics, astrophysics and how vehicles behave under certain conditions. The Nvidia RTX is one of the most powerful GPUs available for scientific visualization and energy exploration.
+
+GPUs vs. NPUs vs. FPGAs
+With the proliferation of AI and gen AI applications, it’s worth examining two other specialized processing devices and how they compare to GPUS. Today’s enterprise businesses use all three types of processors—CPUs, GPUs and FPGAs—depending on their specific needs.
+
+What is a neural processing unit (NPU)?
+A neural processing unit (NPU) is a specialized computer microprocessor designed to mimic the processing function of the human brain. Also known as an AI accelerator,  AI chip or deep-learning processor, an NPU is a hardware accelerator built to speed AI neural networks, deep learning and machine learning.  
+
+NPUs and GPUs both enhance a system's CPU, yet they have notable differences. GPUs contain thousands of cores to achieve the fast, precise computational tasks needed for graphics rendering and gaming. NPUs are designed to accelerate AI and gen AI workloads, prioritizing data flow and memory hierarchy in real-time, with low power consumption and latency.
+
+What is a field programmable gate array (FPGA)?
+High-performance GPUs are well suited for deep learning or AI applications because they can handle a large volume of calculations in multiple cores with large amounts of available memory. Field programmable gate arrays (FPGAs) are versatile types of integrated circuits that can be reprogrammed for different functions. Compared to GPUS, FPGAs can provide flexibility and cost efficiency to deliver better performance in deep-learning applications that require low latency such as medical imaging and edge computing.

@@ -1,0 +1,37 @@
+CPU Usage Definition
+CPU usage indicates the total percentage of processing power exhausted to process data and run various programs on a network device, server, or computer at any given point.
+
+How to check CPU usage on Windows
+Tracking CPU utilization is common while troubleshooting performance or slowness issues on a computer. Determining the amount of stress the processor handles at any given point is straightforward in every OS. In Windows, the Task Manager provides visibility into CPU usage by different applications.
+
+Outlined below are the steps to observe CPU utilization in Windows:
+
+For Windows 7:
+
+Open the Task Manager by pressing the Ctrl, Alt, and Delete buttons together.
+Click on the Performance tab to observe critical parameters like processor and memory usage.
+A graphical chart is also available for each performance metric in the Task Manager displaying the utilization statistics for the last 60 seconds.
+For Windows 8 and above:
+
+Use the Windows search box to launch the Task Manager.
+Navigate to the Performance tab to view the CPU and memory usage statistics.
+To identify resource utilization by every application, click on the Processes tab adjacent to the performance module.
+To block CPU-intensive apps in the Processes tab, right-click on them and choose the end task option.
+To obtain more granular insights into CPU, memory, and disk space utilization, click on the resource monitor option at the bottom left corner of the Task Manager. The resource monitor also provides temperature graphs for individual CPU cores.
+
+How to check CPU usage on Linux
+As a Linux systems admin, having clarity into different CPU utilization tracking methods and tools is vital in preventing resource abuse and improving system performance. The top command, a widely popular utility, is one of the best options to track CPU and memory usage by different processes on Linux-based systems. The result of this command has two sections. The upper section contains statistics regarding overall system performance like load average and total processes. In contrast, the bottom half displays a list of all the tasks handled by the Linux kernel. Admins can also choose the advanced version of the top command, htop, for a more interactive experience during CPU utilization assessment. The default window of the htop tool supports colorful text and a complete command line for every process with horizontal and vertical scaling, simplifying output analysis and interpretation for admins. However, unlike top, the htop tool isn’t available as a built-in utility in most Linux distributions and thereby requires manual setup using package managers, such as snap.
+
+Besides top and htop, there are multiple other commands, such as mpstat, sar, and vmstat, in Linux, providing granular insights into system performance, including CPU utilization. For multi-processor systems, mpstat is the perfect option as it offers detailed usage statistics for every CPU. The vmstat command provides detailed information about overall system performance, including memory usage, I/O rate, and CPU load. In contrast, the sar command provides basic reports related to CPU utilization. However, it can track processor usage at different intervals. Note running these commands requires installing the sysstat package if it’s not available as a default utility in your Linux distribution.
+
+What causes high CPU usage?
+The central processing unit or CPU of any networked device or computer is like a workhorse managing multiple tasks continuously, from running programs to ensuring smooth data exchange. The constant CPU use by different processes can result in overheating, damage, and poor system performance. Outlined below are some of the critical reasons for abnormal processor usage:
+
+Multiple background processes in a computer can rapidly drain the processing power of the CPU. For instance, numerous background processes in Windows workstations scale up CPU utilization and, as a result, degrade the system startup and runtime performance. Network admins can stop the unnecessary background activities using the Task Manager utility to regulate processor usage in Windows. Similarly, processes like Address Resolution Protocol (ARP) broadcast flooding in network devices also increases the CPU load. Network admins can prevent such processes from overutilizing the CPU using proper debugging procedures.
+Malware/viruses in network devices or computers are another popular cause of atypical processor usage. A workstation exhibiting a high CPU load without any processor-intensive applications or programs is often infected with a virus or Trojan. If you identify a system with such suspicious behavior, inspect it using a malware scanning tool to eradicate the malicious program. Suspicious configuration changes and unusual traffic spikes in a network also indicate the presence of a rogue device with above-average CPU utilization.
+Outdated drivers and software on a computer often increase CPU utilization, resulting in system slowdown or failure. Processor-intensive applications freeze abruptly or crash when you work with such systems. Installing the latest security patches and updating the BIOS version on the system can help prevent CPU overutilization. Similarly, upgrading the legacy firmware and hardware components in network devices like routers is vital to enhance overall network performance.
+Data encryption on network devices such as routers that don’t support hardware-based encryption often experience high CPU utilization. Encrypting the incoming data packets or traffic flows using software only overloads the processor of these devices. With limited processing power, the timely execution of other tasks becomes difficult for the CPU. Network admins should install a hardware encryption module in the router to prevent this problem.
+How to monitor CPU usage?
+Regularly monitoring the CPU load across multiple network devices is mandatory for maintaining consistent network performance and preventing system failures. Network teams can utilize various built-in tools or commands to observe CPU utilization trends across Windows and Linux-based workstations. However, with the expanding number of network devices, manually tracking CPU load and other performance metrics can be time-consuming and complex for network teams. Therefore, leveraging CPU monitoring software is preferable for IT teams to streamline and accelerate their network monitoring activities. It provides complete visibility into CPU load, memory usage, and other critical performance metrics of all the network devices. It also enables network admins to configure and receive timely alerts related to processor or memory overutilization by different network devices.
+
+An advanced CPU monitor supports powerful dashboard visualizations, allowing IT admins to get a consolidated view of all the critical performance metrics from different network devices. Network admins can also generate data-rich reports with a few easy clicks using such software to monitor CPU, disk space, and memory utilization statistics of individual devices. The clarity offered by such software on hardware and software-related issues in a network enables IT admins to identify the gray areas of performance and take corrective actions, such as replacing legacy hardware to optimize CPU load and device performance.
