@@ -126,6 +126,8 @@ k = 5. This provides enough context from multiple sources while minimizing irrel
      with my specified chunk size and overlap" is a plan. -->
 
      I will input this markdown file to claude to help me implement functions such as ingesting the fixed-size chunks, answer generation, and so on. In terms of coding, I will use Claude AI to implement the functions while I give the constraints and directions based on the requirements. 
+     
+     Claude code will code the first draft of the embed.py and generate.py. After examining, I will make changes based on evaluation. 
 
 **Milestone 3 — Ingestion and chunking:**
 Created ingest.py
